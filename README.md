@@ -2,6 +2,9 @@
 
 Welcome to the **AI Image Classifier**, a modern, dark-themed desktop application built with Python. This tool leverages the power of **PyTorch** and the **ResNet-18** architecture to identify objects across 1,000 different ImageNet categories. Whether you have a single mystery photo or a massive folder of vacation snapshots, this app has the "vision" to sort them out.
 
+<img width="1920" height="1032" alt="Στιγμιότυπο οθόνης 2026-04-29 181554" src="https://github.com/user-attachments/assets/4d694a83-37ac-43d1-8c77-bc18027501aa" />
+
+
 ---
 
 ## 🚀 Features
@@ -59,6 +62,9 @@ Welcome to the **AI Image Classifier**, a modern, dark-themed desktop applicatio
 1.  Click **Choose...** to select a directory containing multiple images.
 2.  Click **Classify Folder**.
 3.  Sit back and watch the **Progress Bar**. The app will calculate the **ETA** based on your hardware's processing speed.
+
+<img width="1920" height="1032" alt="Στιγμιότυπο οθόνης 2026-04-29 181612" src="https://github.com/user-attachments/assets/558975e4-92ab-44b0-99db-5c4f5d3aadf0" />
+
 
 ---
 
